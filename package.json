@@ -1,0 +1,25 @@
+{
+  "name": "preprocessing-i",
+  "version": "1.0.0",
+  "description": "For this project you will be building a digital resume from scratch. You will be required to use specific preprocessing skills to accomplish your tasks.",
+  "main": "index.js",
+  "dependencies": {
+    "less": "^3.9.0",
+    "less-watch-compiler": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "less-watch": "less-watch-compiler less css index.less"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/practice-code-lambda/Preprocessing-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/practice-code-lambda/Preprocessing-I/issues"
+  },
+  "homepage": "https://github.com/practice-code-lambda/Preprocessing-I#readme"
+}
